@@ -1,0 +1,1 @@
+Spotify clone is a simple music playlist project, which is developed using HTML, CSS, and JavaScript. THis is a static web page, where we need to change the code inorder to add new song into playlist.
